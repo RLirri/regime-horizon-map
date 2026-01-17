@@ -1,0 +1,13 @@
+# Python / venv
+.venv/
+venv/
+__pycache__/
+*.pyc
+
+# PyCharm
+.idea/
+
+# Outputs
+outputs/*.png
+outputs/*.pdf
+
